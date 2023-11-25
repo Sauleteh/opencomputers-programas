@@ -1,0 +1,9 @@
+function()
+  local drone = component.proxy(component.list("drone")())
+  while true do
+    drone.move(1, 2, 0)
+    computer.pullSignal(2)
+    drone.move(-1, -2, 0)
+    computer.pullSignal(2)
+  end
+end

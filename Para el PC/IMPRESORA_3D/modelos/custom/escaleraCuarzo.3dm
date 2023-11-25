@@ -1,0 +1,22 @@
+{
+  label = "Escalera de cuarzo 3D",
+  shapes = {
+    {0,0,0,16,1,16, texture="quartz_block_side"},
+    {0,1,1,16,2,16, texture="quartz_block_side"},
+    {0,2,2,16,3,16, texture="quartz_block_side"},
+    {0,3,3,16,4,16, texture="quartz_block_side"},
+    {0,4,4,16,5,16, texture="quartz_block_side"},
+    {0,5,5,16,6,16, texture="quartz_block_side"},
+    {0,6,6,16,7,16, texture="quartz_block_side"},
+    {0,7,7,16,8,16, texture="quartz_block_side"},
+    {0,8,8,16,9,16, texture="quartz_block_side"},
+    {0,9,9,16,10,16, texture="quartz_block_side"},
+    {0,10,10,16,11,16, texture="quartz_block_side"},
+    {0,11,11,16,12,16, texture="quartz_block_side"},
+    {0,12,12,16,13,16, texture="quartz_block_side"},
+    {0,13,13,16,14,16, texture="quartz_block_side"},
+    {0,14,14,16,15,16, texture="quartz_block_side"},
+    {0,15,15,16,16,16, texture="quartz_block_side"}
+  
+  }
+}

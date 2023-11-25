@@ -1,0 +1,6 @@
+{
+  label = "Media escalera de Blue Portuguese",
+  shapes = {
+    {0,8,8,16,16,16, texture="botania:blocks/pavement2"}
+  }
+}

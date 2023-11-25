@@ -1,0 +1,7 @@
+Upgrades:
+- Tank Upgrade
+- Navigation Upgrade
+- Inventory Upgrade
+
+Componentes:
+- Wireless Network Card T2

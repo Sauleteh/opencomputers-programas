@@ -1,0 +1,18 @@
+{
+  label = "Lámpara de redstone",
+
+  tooltip = "La lámpara de redstone de Minecraft pero sin luz",
+
+  lightLevel = 0,
+
+  emitRedstone = false,
+
+  buttonMode = false,
+
+  collidable = {true, true},
+
+  shapes = {
+    {0, 0, 0, 16, 16, 16, texture = "minecraft:blocks/redstone_lamp_off"},
+    {0, 0, 0, 16, 16, 16, texture = "minecraft:blocks/redstone_lamp_on", state = true}
+  }
+}

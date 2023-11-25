@@ -1,0 +1,7 @@
+{
+  label = "Esquina inferior derecha",
+  shapes={
+  {14,0,15,16,16,16,texture="coal_block"},
+  {0,0,15,16,2,16,texture="coal_block"}
+  }
+}

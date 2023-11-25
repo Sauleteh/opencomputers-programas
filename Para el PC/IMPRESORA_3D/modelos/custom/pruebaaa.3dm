@@ -1,0 +1,8 @@
+{
+  label = "Block of Diamond",
+  shapes = {{0,0,0,8,8,8, texture="diamond_block"}}
+},
+{
+  label = "AA",
+  shapes = {{8,8,8,16,16,16, texture="iron_block"}}
+}

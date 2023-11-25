@@ -1,0 +1,6 @@
+{
+  label = "Marco izquierda",
+  shapes={
+  {0,0,15,2,16,16,texture="coal_block"}
+  }
+}

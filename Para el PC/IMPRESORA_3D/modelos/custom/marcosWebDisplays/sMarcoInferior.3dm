@@ -1,0 +1,6 @@
+{
+  label = "Marco inferior",
+  shapes={
+  {0,0,15,16,2,16,texture="coal_block"}
+  }
+}

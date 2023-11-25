@@ -1,0 +1,6 @@
+{
+  label = "Marco superior",
+  shapes={
+  {0,14,15,16,16,16,texture="coal_block"}
+  }
+}

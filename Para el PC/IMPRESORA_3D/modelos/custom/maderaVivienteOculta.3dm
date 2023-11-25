@@ -1,0 +1,17 @@
+{
+  label = "Tabla de madera viviente oculta",
+
+  tooltip = "Una tabla de madera vivivente... pero atravesable",
+
+  lightLevel = 0,
+
+  emitRedstone = false,
+
+  buttonMode = false,
+
+  collidable = {false, false},
+
+  shapes = {
+    {0, 0, 0, 16, 16, 16, texture = "botania:blocks/livingwood1"}
+  }
+}

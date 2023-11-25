@@ -1,0 +1,8 @@
+function()
+  local drone = component.proxy(component.list("drone")())
+  while true do
+    drone.setLightColor(0xff0000)
+    drone.setLightColor(0x00ff00)
+    drone.setLightColor(0x0000ff)
+  end
+end

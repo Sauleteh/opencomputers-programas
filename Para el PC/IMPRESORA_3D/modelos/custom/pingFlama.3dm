@@ -1,0 +1,19 @@
+{
+  label = "Ping flama",
+  shapes = {
+    {2,0,7,14,1,10, texture="iron_block"},
+    {3,0,6,13,1,11, texture="iron_block"},
+    {3,1,9,13,8,10, texture="coal_block"},
+    {4,1,8,5,3,9, texture="concrete_green"},
+    {3,2,8,4,4,9, texture="concrete_lime"},
+    {6,1,8,7,4,9, texture="concrete_green"},
+    {5,2,8,6,5,9, texture="concrete_lime"},
+    {8,1,8,9,5,9, texture="concrete_green"},
+    {7,2,8,8,6,9, texture="concrete_lime"},
+    {10,1,8,11,6,9, texture="concrete_green"},
+    {9,2,8,10,7,9, texture="concrete_lime"},
+    {12,1,8,13,7,9, texture="concrete_green"},
+    {11,2,8,12,8,9, texture="concrete_lime"}
+
+    }
+}

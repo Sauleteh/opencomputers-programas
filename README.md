@@ -1,2 +1,2 @@
-# opencomputers-programas
-Recopilación de programas para el mod OpenComputers del juego Minecraft, ya sean programas hechos por mí o modificaciones realizadas sobre el código de otros
+# Programas varios para OpenComputers
+Una recopilación de programas escritos en LUA para ser usados específicamente en el mod OpenComputers para Minecraft. Como extra, también hay varios archivos así como una imagen de la build de un robot que suelo hacer siempre por si es de interés. Como programas interesantes te puedes encontrar, entre otros, y para el robot: <i>squarry</i> (rompe un área especificada), <i>tres en raya</i> (2P o contra la IA), <i>conecta 4</i> (2P o contra la IA, aunque la IA no acabé de terminarla), <i>construir_suelo</i>, <i>construir_pared</i>, <i>construir_techo</i> (autoexplicativos), <i>trabajar_experiencia</i> (para subir de nivel el robot), etc.
